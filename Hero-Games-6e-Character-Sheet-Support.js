@@ -48,7 +48,7 @@ on("ready", function(){
         setup(obj, "Skill_Total", "");
         setup(obj, "Pow_Total", "");
         setup(obj, "Comp_Total", "");
-        for (i = 1; i < 49; i++) { 
+        for (i = 1; i < 50; i++) { 
             setup(obj, "Skill_Cost"+i, "");
         }
         for (i = 1; i < 36; i++) { 
